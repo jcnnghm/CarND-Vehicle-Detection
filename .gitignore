@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+*.pkl
+non-vehicles
+stills
+vehicles
+venv
